@@ -1,0 +1,14 @@
+COURSE,101,Intro to Mobile Application Design,Learn about market opportunities and architectural models for mobile environments.,3,20,05/01/2014,06/01/2014
+COURSE,102,Application Development for Android,Introduction to the design and implementation of applications for Android devices.,5,15,04/15/2014,06/15/2014
+COURSE,103,Mobile Development for iOS,Hands-on experience in Apple's development environment for the IPhone and ITouch devices.,5,15,04/15/2014,06/15/2014
+COURSE,104,Java Programming I,Learn to write and design sophisticated professional programs using Java through hands-on exercises.,8,10,04/01/2014,06/01/2014
+STUDENT,10001,Chris,Blackledge,MyPassword1,101:102:104
+STUDENT,10002,Travis,Cribbet,MyPassword2,103:104
+STUDENT,10003,Levi,Hsiao,MyPassword3,102:104:103
+STUDENT,10004,Tyler,Durden,FightClub4,102:104
+STUDENT,10005,Han,Solo,StarWars5,103:104
+STUDENT,10006,Indiana,Jones,LostArk6,101:104
+STUDENT,10007,Neo,Anderson,TheMatrix7,102:103:104
+STUDENT,10008,Jack,Sparrow,BlackPearl8,104
+STUDENT,10009,Vito,Corleone,GodFather9,101:104
+STUDENT,10010,James,Bond,GoldFinger10,102:103:104
